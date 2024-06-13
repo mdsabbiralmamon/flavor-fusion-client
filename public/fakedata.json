@@ -1,0 +1,83 @@
+[
+    {
+        "FoodName": "Spaghetti Carbonara",
+        "FoodImage": "https://i.ibb.co/TgdkKxQ/image.png",
+        "FoodCategory": "Pasta",
+        "Price": 12.99,
+        "MadeBy": "Chef Giovanni",
+        "FoodOrigin": "Italy",
+        "Description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and black pepper. Served with al dente spaghetti."
+    },
+    {
+        "FoodName": "Sushi Platter",
+        "FoodImage": "https://i.ibb.co/7j770ts/image.png",
+        "FoodCategory": "Japanese",
+        "Price": 24.99,
+        "MadeBy": "Chef Hiroshi",
+        "FoodOrigin": "Japan",
+        "Description": "An assortment of fresh sushi including nigiri, maki rolls, and sashimi. Served with soy sauce, wasabi, and pickled ginger."
+    },
+    {
+        "FoodName": "Chicken Tikka Masala",
+        "FoodImage": "https://i.ibb.co/rtq8VZy/image.png",
+        "FoodCategory": "Indian",
+        "Price": 14.99,
+        "MadeBy": "Chef Priya",
+        "FoodOrigin": "India",
+        "Description": "Tender chicken marinated in yogurt and spices, then grilled and served in a rich, creamy tomato-based sauce. Accompanied by basmati rice and naan bread."
+    },
+    {
+        "FoodName": "Fish and Chips",
+        "FoodImage": "https://i.ibb.co/cYNc0QP/image.png",
+        "FoodCategory": "British",
+        "Price": 10.99,
+        "MadeBy": "Chef James",
+        "FoodOrigin": "United Kingdom",
+        "Description": "Crispy battered fish served with golden fries. Accompanied by tartar sauce and mushy peas."
+    },
+    {
+        "FoodName": "Hamburger",
+        "FoodImage": "https://i.ibb.co/VSMNSG6/image.png",
+        "FoodCategory": "American",
+        "Price": 8.99,
+        "MadeBy": "Chef Sarah",
+        "FoodOrigin": "United States",
+        "Description": "Juicy beef patty served on a toasted bun with lettuce, tomato, onion, and your choice of toppings. Served with fries."
+    },
+    {
+        "FoodName": "Margherita Pizza",
+        "FoodImage": "https://i.ibb.co/XZkJzpc/image.png",
+        "FoodCategory": "Italian",
+        "Price": 11.99,
+        "MadeBy": "Chef Luca",
+        "FoodOrigin": "Italy",
+        "Description": "A classic Italian pizza topped with tomato sauce, fresh mozzarella cheese, basil leaves, and a drizzle of olive oil."
+    },
+    {
+        "FoodName": "Pad Thai",
+        "FoodImage": "https://i.ibb.co/Wnvfj8b/image.png",
+        "FoodCategory": "Thai",
+        "Price": 13.99,
+        "MadeBy": "Chef Nong",
+        "FoodOrigin": "Thailand",
+        "Description": "Stir-fried rice noodles with shrimp, tofu, bean sprouts, and peanuts, tossed in a sweet and tangy tamarind sauce. Garnished with lime and cilantro."
+    },
+    {
+        "FoodName": "Croissant",
+        "FoodImage": "https://i.ibb.co/85XfMwy/image.png",
+        "FoodCategory": "French",
+        "Price": 5.99,
+        "MadeBy": "Chef Pierre",
+        "FoodOrigin": "France",
+        "Description": "A buttery and flaky pastry made with layers of dough. Perfect for breakfast or as a snack."
+    },
+    {
+        "FoodName": "Tacos al Pastor",
+        "FoodImage": "https://i.ibb.co/yPD9FBW/image.png",
+        "FoodCategory": "Mexican",
+        "Price": 9.99,
+        "MadeBy": "Chef Carlos",
+        "FoodOrigin": "Mexico",
+        "Description": "Corn tortillas filled with marinated pork, pineapple, onions, and cilantro. Served with salsa verde and lime wedges."
+    }
+]

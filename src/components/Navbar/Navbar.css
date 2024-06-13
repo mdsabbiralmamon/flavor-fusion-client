@@ -1,0 +1,7 @@
+.navbar{
+    border-top: 5px solid rgb(249 115 22);
+    position: fixed;
+    top: 0;
+    background: transparent;
+    z-index: 999;
+}
